@@ -13,7 +13,7 @@ int main()
        scanf("%d",&a[i]);
 
    }
-   n=*p;
+  int n=*p;
    for(i=0;i<6;i++)
    {
 
