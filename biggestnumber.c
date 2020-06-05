@@ -3,7 +3,7 @@
 
 int main()
 {
-   int a[6],i,n;
+   int a[6],i;
    int *p;
    p=&a;
    printf("enter elemet");
